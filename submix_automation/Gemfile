@@ -1,0 +1,15 @@
+source 'http://rubygems.org'
+
+ruby "2.3.1"
+
+gem 'cucumber'
+gem 'capybara'
+gem 'bundler'
+gem 'rake'
+gem 'selenium-webdriver', '~> 2.53', '>= 2.53.4'
+gem 'headless'
+gem 'capybara-screenshot'
+gem 'aws-sdk', '~> 2'
+gem 'faker'
+gem "chromedriver-helper"
+gem 'draper'
